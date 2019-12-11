@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">BicyCab</string>
+
+    <!--Do not change this for localization -->
+    <string name="google_android_map_api_key">AIzaSyAHNdoUOZOJcDrXS-o4FgUbtxOCF1VsNNg</string>
+    <string name="mapboxkey">pk.eyJ1IjoibW9iaWx5IiwiYSI6ImNqazg1ZDVrcDJncm4zbG50amJ2ajlndHUifQ.S2wUDKwDh1s-f6fla_Rsrw</string>
+    <string name="mobile_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Check in</string>
+    <string name="sign_in">Log in</string>
+    <string name="drop_up_location">Destination place</string>
+    <string name="pick_up_location">Starting place</string>
+    <string name="update">To update</string>
+    <string name="direction_request">Requesting Address........</string>
+    <string name="network">Network unavailable</string>
+    <string name="home">Home</string>
+    <string name="try_again">Try again</string>
+    <string name="request_ride">Travel request</string>
+    <string name="merchant_privacy">https://www.bicycab.com.mx/privacy</string>
+    <string name="merchant_user_agreement">https://bicycab.com.mx/legal</string>
+    <string name="merchant_name">BicyCab</string>
+    <string name="paypal_payment_currency">USD</string>
+    <string name="cash_on_hand">Cash</string>
+    <string name="change_password">Change the password</string>
+    <string name="contact_admin">There is a problem please, contact your administrator.</string>
+    <string name="success_login">Success</string>
+    <string name="profile">Profile</string>
+    <string name="taxi">Taxi</string>
+    <string name="ok">OK</string>
+    <string name="payment_update">Payment update</string>
+    <string name="ride_request_completed">Trip request completed</string>
+    <string name="ride_request_cancelled">Canceled trip request</string>
+    <string name="accepted_request">Travel accepted</string>
+    <string name="pending_request">Pending trips</string>
+    <string name="cancelled_request">Canceled trips</string>
+    <string name="completed_request">Trips completed</string>
+    <string name="couldnt_get_location">we could not get your location</string>
+    <string name="online">You are online</string>
+    <string name="error_occurred">There was an error</string>
+    <string name="fiels_is_required">Required field</string>
+    <string name="email_invalid">The email is invalid</string>
+    <string name="mobile_invalid">The mobile number is invalid</string>
+    <string name="password_length">The minimum length of the password is 6 characters.</string>
+    <string name="password_nomatch">password does not match</string>
+    <string name="passenger_info">Travel information</string>
+    <string name="payment_hbeen_cancelled">The payment has been canceled</string>
+    <string name="complete_ride">End Trip</string>
+    <string name="cancel_ride">Cancel Trip</string>
+    <string name="track_ride">See Trip</string>
+
+    <string name="profile_updated">Updated profile</string>
+    <string name="profile_uploaded">Profile loaded</string>
+    <string name="change">Change</string>
+    <string name="old_pws_is_required">The old password is required</string>
+    <string name="relogin">Re-login and try again</string>
+    <string name="newpwd_required">A new password is required</string>
+    <string name="password_updated">Password updates</string>
+    <string name="invalid_location">Invalid location</string>
+    <string name="select_driver">Driver information</string>
+    <string name="invalid_fare">Invalid rate</string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="invalid_distance">Invalid distance</string>
+    <string name="invalid_pickupaddress">Invalid starting address</string>
+    <string name="invalid_dropaddress">Invalid address</string>
+    <string name="invalid_pickuplocation">Invalid place of departure</string>
+    <string name="invalid_droplocation">Invalid destination location</string>
+    <string name="ride_has_been_requested">The trip has been requested </string>
+    <string name="name">First name</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="error_payment">Error updating the payment</string>
+    <string name="server_not_respond">The server did not respond</string>
+    <string name="payment_method">Choose the payment method</string>
+    <string name="want_to_cancel">Do you want to cancel your accepted trip?</string>
+    <string name="want_to_accept">Do you want to finish your journey?</string>
+    <string name="ride_request_cancellation">End Trip</string>
+    <string name="FROM">Of</string>
+    <string name="TIME">Weather</string>
+    <string name="DRIVERNAME">Name of the driver</string>
+    <string name="TO">TO</string>
+    <string name="basefare">"Base rate       "</string>
+    <string name="pickup_location">"Starting place       "</string>
+    <string name="drop_location">"Destination place       "</string>
+    <string name="namee">"Name of the driver       "</string>
+    <string name="drivername">"Driver number      "</string>
+    <string name="payment_status">"Payment status       "</string>
+    <string name="mobile_numberr">"Mobile phone number       "</string>
+    <string name="CUSTOMERNAME">Customer name</string>
+    <string name="nodata_found">Data not found</string>
+    <string name="vehicle_info">VEHICLE INFO</string>
+    <string name="ratekm"></string>
+    <string name="REQUEST_RIDE">REQUEST TRAVEL</string>
+    <string name="Login">Log in</string>
+    <string name="forgot_password">Did you forget your password?</string>
+    <string name="create_ac">Create an account</string>
+    <string name="password_reset">Restore password</string>
+    <string name="pwd_reset_instruction">Enter your registered email address. We will send you an email to reset your password.</string>
+    <string name="register_hint">Registered email</string>
+    <string name="reset_password">Restore password</string>
+    <string name="new_pwd">New Password</string>
+    <string name="INVALID_DISTANCE">DISTANCE NOT VALID</string>
+    <string name="make_payment">Make the payment</string>
+    <string name="taxigo">BicyCab</string>
+    <string name="date">Date</string>
+    <string name="fare">"Rate      "</string>
+    <string name="ride_request">Travel request</string>
+    <string name="vehicle_name">"Vehicle name      "</string>
+    <string name="unpaid">Unpaid</string>
+    <string name="fare_calculating">Calculating distance..........</string>
+    <string name="select_pickup_location">Select the place of departure</string>
+    <string name="select_drop_location">Select the destination</string>
+    <string name="Track_Driver">See trip</string>
+    <string name="Track_Ride">Track Ride</string>
+
+
+    <string-array name="payment_mode">
+        <item>Cash</item>
+        <item>Paypal</item>
+    </string-array>
+
+</resources>

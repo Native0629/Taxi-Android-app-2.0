@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Driver BicyCab</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="google_android_map_api_key">AIzaSyAlBu8MsC7jxJ68rpRR722Ojl_HQiWpnhQ</string>
+    <string name="mapboxkey">pk.eyJ1IjoibW9iaWx5IiwiYSI6ImNqazg1ZDVrcDJncm4zbG50amJ2ajlndHUifQ.S2wUDKwDh1s-f6fla_Rsrw</string>
+
+    <string name="mobile_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="name">First name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">CHECK IN</string>
+    <string name="sign_in">Log in</string>
+    <string name="drop_up_location">Place of departure</string>
+    <string name="pick_up_location">Destination place</string>
+    <string name="update">To update</string>
+    <string name="online">You are online</string>
+    <string name="offline">You are offline</string>
+    <string name="order_id_mock" translatable="false"># 1234–5678</string>
+    <string name="price_mock" translatable="false">$25</string>
+    <string name="requests_count_mock" translatable="false">5</string>
+    <string name="requests_count_badge" translatable="false">PETITIONS</string>
+    <string name="weight_mock" translatable="false">50 oz</string>
+    <string name="weight_badge" translatable="false">PESO</string>
+    <string name="pledge_mock" translatable="false">$150</string>
+    <string name="pledge_badge" translatable="false">PROMISE</string>
+    <string name="sender_badge" translatable="false">SENDER</string>
+    <string name="client_name_mock" translatable="false">Edward Norton</string>
+    <string name="rating_mock" translatable="false">(26)</string>
+    <string name="from_badge" translatable="false">DE</string>
+    <string name="to_badge" translatable="false">A</string>
+    <string name="delivery_date_badge" translatable="false">DATE OF DELIVERY</string>
+    <string name="delivery_time_mock" translatable="false">6:30 pm</string>
+    <string name="delivery_date_mock" translatable="false">May 16, 2016</string>
+    <string name="deadline_badge" translatable="false">REQUEST DEADLINE</string>
+    <string name="deadline_time_mock" translatable="false">24 minutes</string>
+    <string name="request_btn_text" translatable="false">SENDER</string>
+    <string name="btn_annotation_mock" translatable="false">5 people have sent an application</string>
+    <string name="content_from1_mock">W 90th St</string>
+    <string name="content_from2_mock">New York, NY 10025</string>
+    <string name="content_to1_mock">46th Ave</string>
+    <string name="content_to2_mock">Woodside, NY 11101</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="unpaid">UNPAID</string>
+    <string name="error_occurred">There was an error</string>
+    <string name="network">The network is not available</string>
+    <string name="add_vehicleinfo">Add vehicle information</string>
+    <string name="upload_doc">Upload documents</string>
+    <string name="home">Home</string>
+    <string name="status">State</string>
+    <string name="pending">PENDING</string>
+    <string name="requests">Requests</string>
+    <string name="accepted">ACCEPTED</string>
+    <string name="completed">FINISHED</string>
+    <string name="cancelled">CANCELED</string>
+    <string name="vehicle_info">Vehicle information</string>
+    <string name="payment_history">Payment history</string>
+    <string name="profile">Profile</string>
+    <string name="success">Success</string>
+    <string name="fiels_is_required">Required field</string>
+    <string name="email_invalid">The email is invalid</string>
+    <string name="mobile_invalid">The mobile number is invalid</string>
+    <string name="password_length">The minimum length of the password is 6 characters.</string>
+    <string name="password_nomatch">Password does not match</string>
+    <string name="ride_reuest_completed">Trip request completed</string>
+    <string name="ride_reuest_cancelled">Canceled trip request</string>
+    <string name="accepted_request">Request accepted</string>
+    <string name="ccancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="ride_completion">Trip Completed</string>
+    <string name="ride_cancellation">Trip canceled</string>
+    <string name="ride_complete_msg">Do you want to end your trip?</string>
+    <string name="ride_cancel_msg">Do you want to cancel your accepted trip?</string>
+    <string name="track_ride">See Trip</string>
+    <string name="passanger_info">Passenger information</string>
+    <string name="taxi">BicyCab</string>
+    <string name="pending_request">Travel Pending</string>
+    <string name="cancelled_request">Canceled Trips</string>
+    <string name="completed_request">Finished Trips</string>
+    <string name="couldnt_get_location">We could not get your location</string>
+    <string name="direct_requesting">Requesting Address ...</string>
+    <string name="your_current_location">Your current location</string>
+    <string name="profile_updated">Updated profile</string>
+    <string name="tryagian">Try again</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="profile_uploaded">Updated profile</string>
+    <string name="change">Change</string>
+    <string name="newpwd_required">A new password is required</string>
+    <string name="password_updated">Password updates</string>
+    <string name="failed_toupdate">Error updating information</string>
+    <string name="info_updated">Updated information</string>
+    <string name="ride_accept_msg">Do you want to accept your pending trip?</string>
+    <string name="ride_acceptance">Accept Travel</string>
+    <string name="ride_reuest_accepted">Travel request accepted</string>
+    <string name="format_accepted">Only jpg, png or gif are accepted.</string>
+    <string name="accept_ride">Accept Travel</string>
+    <string name="complete_ride">End Trip</string>
+    <string name="cancel_ride">Cancel Trip</string>
+    <string name="no_status">Stateless</string>
+    <string name="payment_status">Payment status&#032;&#032;&#032;&#032;&#032;&#032;&#032;</string>
+    <string name="mobile_numberr">Phone number&#032;&#032;&#032;&#032;&#032;&#032;&#032;</string>
+    <string name="namee">First name&#032;&#032;&#032;&#032;&#032;&#032;&#032;</string>
+    <string name="drop_location">Place of departure&#032;&#032;&#032;&#032;&#032;&#032;&#032;</string>
+    <string name="pickup_location">Destination place&#032;&#032;&#032;&#032;&#032;&#032;&#032;</string>
+    <string name="basefare">Base rate&#032;&#032;&#032;&#032;&#032;&#032;&#032;</string>
+    <string name="capacity">Capacity&#032;&#032;&#032;&#032;&#032;&#032;&#032;</string>
+    <string name="brand">Brand</string>
+    <string name="vehicle_no">NO VEHICLE</string>
+    <string name="model">MODEL</string>
+    <string name="year">YEAR</string>
+    <string name="color">COLOR</string>
+    <string name="continuee">CONTINUE</string>
+    <string name="interior_color">COLOR OF THE INTERIOR</string>
+    <string name="data_notfound">Data not found</string>
+    <string name="from">DE</string>
+    <string name="to">A</string>
+    <string name="date">DATE</string>
+    <string name="time">HOUR</string>
+    <string name="customer_name">CUSTOMER NAME</string>
+    <string name="taxigo">BicyCab</string>
+    <string name="affordable">Economic trips every day</string>
+    <string name="customer_number">Customer number</string>
+    <string name="approve_payment_offline">Approve online payment</string>
+    <string name="Start_Ride">start trip</string>
+    <string name="network_not_available">Network unavailable</string>
+    <string name="password_required">Password is required</string>
+    <string name="coh_driver">Cash</string>
+    <string name="Pick_Customer">Go for the client</string>
+    <string name="Ride_Started">start trip</string>
+    <string name="format_msg">Only supports jpg, jpeg and gif</string>
+    <string name="payment_receive_from_customer">Payment received from the client</string>
+
+
+</resources>
